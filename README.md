@@ -1,2 +1,2 @@
 # AndroidChatFunction
-# this is apart fo a real-time chat function
+# this is apart of a real-time chat function
